@@ -1,5 +1,13 @@
 # Deploy n8n on Render
+- Using render to use n8n an open source program for free. 
+- Using the free postgres database of 256mb ram and 1 gb storage
+- Only 15 minutes runtime if no changes
 
+# Issues
+- I am unable to connect google drive api and google sheets api
+- its asking for verification
+- currently working on using an alternative api
+ 
 > [!IMPORTANT]
 > **View full deployment instructions in the [**Render docs**](https://render.com/docs/deploy-n8n).**
 
